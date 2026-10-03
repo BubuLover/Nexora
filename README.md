@@ -10,7 +10,7 @@ Nexora is designed to provide a centralized interface for managing accounts that
 
 The project is intended for personal, non-commercial use.
 
-Planned and implemented functionality includes:
+Current and planned functionality includes:
 
 - Account management
 - Account enable/disable controls
@@ -18,7 +18,6 @@ Planned and implemented functionality includes:
 - Xbox Live / XSTS authentication
 - Minecraft Java Edition profile authentication
 - Profile information management
-- Profile-name changes on accounts owned by the user
 - Activity and operation logging
 - Optional notifications
 - A self-hosted web dashboard
